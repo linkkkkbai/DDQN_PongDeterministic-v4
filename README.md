@@ -11,4 +11,4 @@ The .ipynb file can be correctly run on Google Colab, but it took a lot of time 
 ## Final results
 The DDQN model finally beat the computer from Episodes 125, but it took about 50 hours to acheive this stage.Since the time limit, we stopped training at this moment.
 * Weight file :  [recent_weights.hdf5](recent_weights.hdf5)
-* .ipynb finle : [Reinforment.ipynb](Reinforment.ipynb)
+* .ipynb finle : [Reinforcement.ipynb](Reinforment.ipynb)
